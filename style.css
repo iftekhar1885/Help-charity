@@ -1,0 +1,79 @@
+.first-banner{
+    background: url(photo-1509099836639-18ba1795216d.avif);
+    background-size: cover;
+    height: 100vh;
+    color: red;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-shadow: bisque;
+    color: beige;
+}
+h3{
+    text-align: center;
+    text-shadow: beige;
+    color: burlywood;
+}
+label {
+    display: flex;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+label {
+  margin-right: 30; 
+  color: red;
+}
+.top-bottom{
+    color: black;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: black;
+    size: 59px;
+}
+p{
+    color: orange;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+.flexbox{
+    margin: 0;
+    padding: 0;
+    font-family: ;
+    box-sizing: ;
+    border-box;
+}
+.flex-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap;
+    justify-content: space-evenly;
+}
+.flex-box{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(red,beige);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 8px;
+}
+.haif-width{
+    text-align: center;
+    color: red;
+    margin: 15px;
+    font-size: 70px;
+    font-weight: bold;
+    width: 900;
+}
+.full-width{
+    text-align: end;
+    margin: 15px;
+    
+   
+}
